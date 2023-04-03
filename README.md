@@ -6,6 +6,8 @@
 - 변수란, 바구니다.
 - 파이썬의 기본 자료형에는 int, float, string, boolean이 있다.
 
+---
+
 - [list], (tuple), {set}, {dictionary:value}
 - if, elif, else
 - for, while
